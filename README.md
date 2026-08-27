@@ -28,6 +28,7 @@ Personal-Journal-Manager/
 ├── journal.py
 ├── journal.txt
 └── README.md
+```
 
 ## ▶️ How to Run
 
@@ -41,6 +42,7 @@ Save the Python program as:
 
 ```text
 journal.py
+```
 
 ### 3. Run the Program
 
@@ -62,6 +64,7 @@ Please select an option:
 3. Search for an Entry
 4. Delete All Entries
 5. Exit
+```
 
 ### 1️⃣ Add a New Entry
 
@@ -74,6 +77,7 @@ Example:
 ```text
 Enter your journal entry: Today I learned Python File Handling.
 Entry added successfully!
+```
 
 ### 2️⃣ View All Entries
 
@@ -86,6 +90,7 @@ Your Journal Entries:
 ----------------------------------------
 [2026-08-27 10:30:15]
 Today I learned Python File Handling.
+```
 
 ### 3️⃣ Search for an Entry
 
@@ -95,6 +100,7 @@ Example:
 
 ```text
 Enter a keyword or date to search: python
+```
 
 The program displays matching entries.
 
@@ -104,6 +110,7 @@ Deletes all saved journal entries from the file.
 
 ```text
 All journal entries have been deleted.
+```
 
 ### 5️⃣ Exit
 
@@ -112,6 +119,7 @@ Closes the program.
 ```text
 Thank you for using Personal Journal Manager.
 Goodbye!
+```
 
 ## 🧠 Concepts Used
 
@@ -144,6 +152,7 @@ All journal entries are stored in:
 
 ```text
 journal.txt
+```
 
 The file is created automatically when the first entry is added.
 
@@ -157,13 +166,10 @@ The main objective of this project is to practice **Python File Handling, OOP, d
 
 ### ⭐ If you like this project, feel free to explore and improve it!
 
+## 🔗 Connect Me:
+
+* 💼 **LinkedIn:www.linkedin.com/in/digna-vora-b135a3416
+
+* 📧 **Email:**dignavora8233@gmail.com
+
 Feel free to connect with me and explore my projects! 🚀
-
-
-
-## 🔗 Connect Me
-
-* 💼 **LinkedIn: www.linkedin.com/in/digna-vora-b135a3416
-
-* 📧 **Email: dignavora8233@gmail.com
-
