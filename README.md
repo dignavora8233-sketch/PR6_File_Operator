@@ -157,11 +157,13 @@ The main objective of this project is to practice **Python File Handling, OOP, d
 
 ### ⭐ If you like this project, feel free to explore and improve it!
 
+Feel free to connect with me and explore my projects! 🚀
+
+
+
 ## 🔗 Connect Me
 
 * 💼 **LinkedIn: www.linkedin.com/in/digna-vora-b135a3416
 
 * 📧 **Email: dignavora8233@gmail.com
-
-Feel free to connect with me and explore my projects! 🚀
 
