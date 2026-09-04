@@ -160,6 +160,10 @@ The file is created automatically when the first entry is added.
 
 The main objective of this project is to practice **Python File Handling, OOP, datetime, and exception handling** by creating a simple real-world journal management application.
 
+##🎥 Explanation Video:
+
+https://drive.google.com/file/d/1zlDM0RZODA-52CsW-I8Oapk0_U4_mbcY/view?usp=sharing
+
 ## 👩‍💻 Author
 
 **Digna Vora**
